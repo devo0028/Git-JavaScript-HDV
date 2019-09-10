@@ -1,2 +1,2 @@
-var number ='4'
-console.log(number)
+const number ='4'
+console.log(number * 2 * 5 / number - 7)
